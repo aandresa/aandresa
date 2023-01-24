@@ -4,4 +4,4 @@
   - name: Make sure a service unit is running
     systemd:
       state: started
-      name: snap.amazon-ssm-agent.amazon-ssm-agent.serviceq
+      name: snap.amazon-ssm-agent.amazon-ssm-agent.service
